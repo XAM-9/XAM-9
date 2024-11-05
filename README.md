@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer | Ux/Ui designer
 ------------------------------
 
-* 🌍  I'm based in Thai
+* 🌍  I'm based Chiang mai, Thailand
 * 🖥️  See my portfolio at [here](http://web-max9.vercel.app/)
 * ✉️  You can contact me at [xamtrap9m@gmail.com](mailto:xamtrap9m@gmail.com)
 
