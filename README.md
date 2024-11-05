@@ -8,8 +8,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer |  Mobile App Developer
 ------------------------------
 
-* 🌍  I'm based in Thai
-* 🖥️  See my portfolio at [here](http://web-max9.vercel.app/)
+* 🌍  I'm based in Chiang mai, Thailand
+* 🖥️  See my portfolio at [My Port](http://web-max9.vercel.app/)
 * ✉️  You can contact me at [xamtrap9m@gmail.com](mailto:xamtrap9m@gmail.com)
 
 ### Skills
