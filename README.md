@@ -30,10 +30,6 @@ Web developer | Ux/Ui designer
 
 <a href="http://www.github.com/XAM-9"><img src="https://github-readme-streak-stats.herokuapp.com/?user=XAM-9&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
-
 ### Support Me
 
 <ul style="list-style-type: none; margin: 0;">
