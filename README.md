@@ -10,7 +10,7 @@ Web developer |  Mobile App Developer
 
 * 🌍  I'm based in Chiang mai, Thailand
 * 🖥️  See my portfolio at [My Port](http://web-max9.vercel.app/)
-* ✉️  You can contact me at [xamtrap9m@gmail.com](mailto:xamtrap9m@gmail.com)
+* ✉️  You can contact me at [xamtrap99m@gmail.com](mailto:xamtrap99m@gmail.com)
 
 ### Skills
 
