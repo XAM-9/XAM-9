@@ -1,4 +1,4 @@
-# 👋 สวัสดีครับ! I'm **Nakarin** 
+# 👋 Hi ! I'm **Nakarin Wongsang** 
 ### 🚀 Web Developer | 📱 Mobile App Developer
 
 ## 🌟 About Me
