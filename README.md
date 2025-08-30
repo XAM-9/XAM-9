@@ -1,14 +1,6 @@
 # 👋 สวัสดีครับ! I'm **Nakarin** 
 ### 🚀 Web Developer | 📱 Mobile App Developer
 
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+from+Thailand;Creating+Amazing+Web+%26+Mobile+Apps;Always+Learning+New+Technologies!)
-
-</div>
-
----
-
 ## 🌟 About Me
 
 - 🌍 **Location:** Chiang Mai, Thailand 🇹🇭
