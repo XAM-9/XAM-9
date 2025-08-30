@@ -66,28 +66,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=XAM-9&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XAM-9&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
