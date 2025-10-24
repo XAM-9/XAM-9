@@ -4,7 +4,6 @@
 ## 🌟 About Me
 
 - 🌍 **Location:** Chiang Mai, Thailand 🇹🇭
-- 💻 **Portfolio:** [My Portfolio](http://web-max9.vercel.app/) ✨
 - 📧 **Contact:** [xamtrap99m@gmail.com](mailto:xamtrap99m@gmail.com)
 - 🎯 **Focus:** Building scalable web applications & mobile solutions
 - 🌱 **Currently Learning:** Advanced React patterns & Cloud technologies
