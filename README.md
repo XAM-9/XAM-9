@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://emojis.slackmojis.com/emojis/images/1643514148/58377/cursorwink.gif" width="32"/> Hi, I'm Nakarin Wongsang
-💻 Full Stack Developer | Freelance 
-</div>
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514148/58377/cursorwink.gif" width="32"/> Hi, I'm **Nakarin Wongsang**
+### 💻 Full Stack Developer | Mobile Developer 
 <div align="left">
 
 <div align="left">
