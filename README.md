@@ -20,20 +20,19 @@ Building web tools that are **useful, intelligent, and beautifully engineered.**
 ## ✨ About Me
 
 <span style="font-size: 16px; font-weight: 600;">
-As the lead developer and architect of phueantae.com 
-("Trusted Friend"), I focus on building highly effective digital tools that simplify financial planning and major life choices.
+As the Lead Architect and Principal Developer, I champion the mission of **phueantae.com** ("Trusted Friend")—a dedicated digital companion designed to cut through life's complexity. My focus is on engineering intuitive, high-impact tools that transform financial ambiguity and difficult life choices into clear, actionable steps.
 </span>
 
 <br>
 
 <span style="font-size: 15px;">
-Our commitment is to empower users with resources that are:
+This platform embodies the spirit of a true companion, built upon four core pillars:
 </span>
 
-- ⚡ <span style="font-weight: 600;">Smart & Decisive</span>  
-- 🎯 <span style="font-weight: 600;">Fast & Accurate</span>  
-- 🧠 <span style="font-weight: 600;">Intuitive & Practical</span>  
-- 🛠️ <span style="font-weight: 600;">Always Supporting You</span>  
+- 💡 <span style="font-weight: 600;">Clarity & Decisiveness:</span> Providing data-backed insights to navigate critical decisions (e.g., [Decision Scorecard](/life-decision)).  
+- ⚙️ <span style="font-weight: 600;">Precision & Efficiency:</span> Delivering fast, accurate calculations for everyday challenges (e.g., [Tax Calculator](/tax-calculator), [Split Bill](/split-bill)).  
+- 💖 <span style="font-weight: 600;">Empowerment:</span> Translating complex topics into accessible, practical knowledge via our [Blog section](/blogs).  
+- 🛡️ <span style="font-weight: 600;">Reliable Support:</span> Ensuring the platform is always there—stable, secure, and ready to assist you in every step.  
 
 </div>
 
