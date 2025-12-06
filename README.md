@@ -34,8 +34,6 @@ As the lead developer and architect of phueantae.com ("Trusted Friend"), I focus
 
 ## 📊 GitHub Activity
 
-<br>
-
 <img height="165" src="https://github-readme-stats-olive-nu.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=XAM-9&theme=radical&hide_border=true" />
