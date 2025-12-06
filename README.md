@@ -3,7 +3,14 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514148/58377/cursorwink.gif" width="32"/> Hi, I'm **Nakarin Wongsang**
 ### 💻 Full Stack Developer • Data Analyst
 
-Building web tools that are **useful, intelligent, and beautifully engineered.**
+<div style="margin-top: 10px;">
+    <span style="font-size: 18px; font-weight: 600; color: #3B1E54;">
+        Building web tools that are
+    </span>
+    <span style="font-size: 18px; font-weight: 700; color: #9B7EBD;">
+        USEFUL, INTELLIGENT, & BEAUTIFULLY ENGINEERED.
+    </span>
+</div>
 
 <br>
 
