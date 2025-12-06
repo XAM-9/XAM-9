@@ -3,8 +3,19 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514148/58377/cursorwink.gif" width="32"/> Hi, I'm **Nakarin Wongsang**
 ### 💻 Full Stack Developer
 
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 15px; margin-bottom: 20px;">
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FXAM-9">
+        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXAM-9&label=Profile%20Views&color=5533FF" />
+    </a>
+    
+    <a href="https://www.buymeacoffee.com/YOUR_BUYMEACOFFEE_USERNAME" target="_blank">
+        <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    </a>
+</div>
 
 </div>
+
+---
 
 <div align="left">
 
@@ -17,15 +28,15 @@ As the lead developer and architect of phueantae.com ("Trusted Friend"), I focus
 <br>
 
 <div style="border-left: 4px solid #3B1E54; padding-left: 20px; padding-top: 5px; padding-bottom: 5px; background-color: #F5F0F6; border-radius: 8px;">
-    <h3 style="font-size: 22px; font-weight: 700; color: #3B1E54; margin: 0;">
-        Your "Trusted Friend" (phueantae.com)
-    </h3>
-    <p style="font-size: 16px; color: #3B1E54; margin-top: 10px; margin-bottom: 5px;">
-        No matter how complex your daily routines or major life choices are, **Phueantae** is your dedicated digital companion. We consolidate essential tools to help you <strong style="color: #9B7EBD;">think, calculate, and decide,</strong> ensuring every part of your life is simpler and more manageable.
-    </p>
-    <p style="font-size: 15px; margin-top: 15px; font-weight: 500;">
-        Explore our mission: <a href="https://www.phueantae.com" style="color: #3B1E54; text-decoration: underline; font-weight: 700;">https://www.phueantae.com</a>
-    </p>
+    <h3 style="font-size: 22px; font-weight: 700; color: #3B1E54; margin: 0;">
+        Your "Trusted Friend" (phueantae.com)
+    </h3>
+    <p style="font-size: 16px; color: #3B1E54; margin-top: 10px; margin-bottom: 5px;">
+        No matter how complex your daily routines or major life choices are, **Phueantae** is your dedicated digital companion. We consolidate essential tools to help you <strong style="color: #9B7EBD;">think, calculate, and decide,</strong> ensuring every part of your life is simpler and more manageable.
+    </p>
+    <p style="font-size: 15px; margin-top: 15px; font-weight: 500;">
+        Explore our mission: <a href="https://www.phueantae.com" style="color: #3B1E54; text-decoration: underline; font-weight: 700;">https://www.phueantae.com</a>
+    </p>
 </div>
 
 </div>
@@ -46,12 +57,6 @@ As the lead developer and architect of phueantae.com ("Trusted Friend"), I focus
 
 <img height="165" src="https://github-readme-stats-olive-nu.vercel.app/api/top-langs/?username=XAM-9&layout=compact&theme=radical&hide_border=true" />
 
-</div>
-<br>
-<div align="center">
-    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FXAM-9">
-      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXAM-9&label=Profile%20Views&color=5533FF" />
-    </a>
 </div>
 
 <div align="center">
