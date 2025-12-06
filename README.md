@@ -23,7 +23,7 @@ into seamless, intelligent, and high-performance applications.
 - 🧠 Strong in architecture & clean code  
 - ⚡ Focus on fast, modern UX  
 - 📊 Data-driven development  
-- 🛠️ Build tools, apps, and systems that **actually help people**
+- 🛠️ Build tools that **actually help people**
 
 ---
 
@@ -32,7 +32,7 @@ into seamless, intelligent, and high-performance applications.
 <div align="center">
 
 <!-- GitHub Stats -->
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true" />
 
 <!-- GitHub Streak -->
 <img height="165" src="https://streak-stats.demolab.com?user=XAM-9&theme=radical&hide_border=true" />
@@ -40,7 +40,7 @@ into seamless, intelligent, and high-performance applications.
 <br><br>
 
 <!-- Top Languages -->
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XAM-9&layout=compact&theme=radical&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XAM-9&layout=compact&theme=radical&hide_border=true" />
 
 <br><br>
 
@@ -49,11 +49,10 @@ into seamless, intelligent, and high-performance applications.
 
 <br><br>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=XAM-9&theme=redical&hide_border=true" width="100%" />
+<!-- Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-<br><br>
-
+</div>
 
 ---
 
