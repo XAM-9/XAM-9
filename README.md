@@ -11,6 +11,22 @@ I'm a Full Stack Developer specializing in building clean, user-centric web appl
 
 ---
 
+## 🔥 GitHub Activity (Dynamic Stats)
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=[Your-GitHub-Username]&theme=radical&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[Your-GitHub-Username]&show_icons=true&theme=radical&hide_border=true" alt="Nakarin's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your-GitHub-Username]&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+---
+
 ## 🛠️ My Technical Toolkit (Tech Stack)
 
 ### Frontend & Core
@@ -32,3 +48,12 @@ I'm a Full Stack Developer specializing in building clean, user-centric web appl
 ---
 
 ## 📞 Let's Connect!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nakarin-wongsang/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/nakarin._max._/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
