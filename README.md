@@ -3,19 +3,8 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514148/58377/cursorwink.gif" width="32"/> Hi, I'm **Nakarin Wongsang**
 ### 💻 Full Stack Developer
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; margin-top: 15px; margin-bottom: 20px;">
-    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FXAM-9">
-        <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXAM-9&label=Profile%20Views&color=5533FF" />
-    </a>
-    
-    <a href="https://www.buymeacoffee.com/YOUR_BUYMEACOFFEE_USERNAME" target="_blank">
-        <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-    </a>
-</div>
 
 </div>
-
----
 
 <div align="left">
 
@@ -58,6 +47,7 @@ As the lead developer and architect of phueantae.com ("Trusted Friend"), I focus
 <img height="165" src="https://github-readme-stats-olive-nu.vercel.app/api/top-langs/?username=XAM-9&layout=compact&theme=radical&hide_border=true" />
 
 </div>
+
 
 <div align="center">
 
@@ -117,4 +107,10 @@ As the lead developer and architect of phueantae.com ("Trusted Friend"), I focus
 </tr>
 </table>
 
+</div>
+<br>
+<div align="center">
+    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FXAM-9">
+      <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXAM-9&label=Profile%20Views&color=5533FF" />
+    </a>
 </div>
