@@ -3,7 +3,7 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514148/58377/cursorwink.gif" width="32"/> Hi, I'm **Nakarin Wongsang**
 ### 💻 Full Stack Developer • Data Analyst
 
-Building products that are **useful, intelligent, and beautifully engineered.**
+Building web tools that are **useful, intelligent, and beautifully engineered.**
 
 <br>
 
@@ -20,20 +20,20 @@ Building products that are **useful, intelligent, and beautifully engineered.**
 ## ✨ About Me
 
 <span style="font-size: 16px; font-weight: 600;">
-ผมคือผู้สร้างและนักพัฒนาคนเดียวเบื้องหลัง phueantae.com 
-(เพื่อนแท้) แพลตฟอร์มที่ตั้งใจออกแบบมาเพื่อช่วยจัดการเรื่องต่างๆ ในชีวิต
+As the lead developer and architect of phueantae.com 
+("Trusted Friend"), I focus on building highly effective digital tools that simplify financial planning and major life choices.
 </span>
 
 <br>
 
 <span style="font-size: 15px;">
-ภารกิจของผมคือการทำให้ชีวิตคุณง่ายขึ้น ด้วยเครื่องมือที่:
+Our commitment is to empower users with resources that are:
 </span>
 
-- ⚡ <span style="font-weight: 600;">ช่วยคำนวณและตัดสินใจ</span>  
-- 🎯 <span style="font-weight: 600;">รวดเร็วและแม่นยำ</span>  
-- 🧠 <span style="font-weight: 600;">เข้าใจง่ายและใช้งานได้จริง</span>  
-- 🛠️ <span style="font-weight: 600;">อยู่เคียงข้างคุณเสมอ</span>  
+- ⚡ <span style="font-weight: 600;">Smart & Decisive</span>  
+- 🎯 <span style="font-weight: 600;">Fast & Accurate</span>  
+- 🧠 <span style="font-weight: 600;">Intuitive & Practical</span>  
+- 🛠️ <span style="font-weight: 600;">Always Supporting You</span>  
 
 </div>
 
