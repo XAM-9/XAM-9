@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1594247265/9692/typing.gif?1594247265" width="40"/> Hi! I'm Nakarin Wongsang – A Full Stack & Data Enthusiast</h1>
+  <h1><img src="https://emojis.slackmojis.com/emojis/images/1594247265/9692/typing.gif?1594247265" width="40"/> Hi! I'm Nakarin Wongsang – Full Stack Architect & Data Scientist</h1>
 </div>
 
 ---
@@ -11,11 +11,11 @@
 </div>
 
 <p align="center">
-  ✨ Welcome to the official Profile of Phueantae (True Friend)! 
-  I'm a Full Stack Developer specializing in blending robust backend architecture with intuitive UI/UX design. My unique focus is leveraging **Python and Data Analysis** skills to build impactful, data-driven web tools.
+  ✨ Welcome to the Profile of Phueantae's Architect! 
+  My specialty is the **Full Stack development lifecycle** combined with deep expertise in **Data Analysis (Python)**. I build robust web applications that are smarter, faster, and driven by insights, ensuring superior performance from database to user interface (UX/UI).
 </p>
 
-## 🧠 My Core Expertise
+## 🧠 My Core Expertise & Triumphs
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -33,43 +33,38 @@
 
 ---
 
-## 📈 My Technical Depth & Activity
+## 📈 Technical Fusion (My Complete Toolkit)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true&title_color=FF6767" alt="Nakarin's GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.demolab.com/?user=XAM-9&theme=radical&hide_border=true&ring=FF6767&fire=FF6767&title_color=FF6767" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XAM-9&layout=compact&theme=radical&hide_border=true&langs_count=6&exclude_langs=HTML,CSS" alt="Top Languages" />
-</p>
-
----
-
-## 🛠️ Complete Technical Toolkit
-
-### Data Analysis & Python Proficiency
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Data Analysis Badge](https://img.shields.io/badge/Data_Analysis-000000?style=for-the-badge&logo=analytice&logoColor=white)
-
-### Frontend & Core
+### 1. Frontend, UX/UI & Core Architecture
+*นี่คือทักษะที่สร้างประสบการณ์ผู้ใช้ที่เป็นมิตรและมีประสิทธิภาพ*
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Styling & Design (UX/UI Focus)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MUI Badge](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 ![Lucide Icons Badge](https://img.shields.io/badge/Lucide_Icons-4f46e5?style=for-the-badge&logo=lucide&logoColor=white)
 
-### Backend & Database
+### 2. Data Analysis & Python Proficiency
+*นี่คือทักษะที่นำข้อมูลเชิงลึกมาขับเคลื่อนการตัดสินใจทางธุรกิจ*
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 3. Backend, DevOps & Scalability
+*นี่คือทักษะที่รับประกันความเสถียรและความปลอดภัยของระบบ*
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![NextAuth Badge](https://img.shields.io/badge/NextAuth-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+---
+
+## 📈 Activity & Discipline
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true&title_color=FF6767" alt="Nakarin's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=XAM-9&theme=radical&hide_border=true&ring=FF6767&fire=FF6767&title_color=FF6767" alt="GitHub Streak" />
+</p>
 
 ---
 
