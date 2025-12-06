@@ -24,9 +24,9 @@ I'm a Full Stack Developer specializing in building clean, user-centric web appl
 ![Lucide Icons Badge](https://img.shields.io/badge/Lucide_Icons-4f46e5?style=for-the-badge&logo=lucide&logoColor=white)
 
 ### Backend & Database
-![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) (Runtime for Next.js API Routes)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) (Primary DB with Drizzle ORM)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) (Additional DB Experience)
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![NextAuth Badge](https://img.shields.io/badge/NextAuth-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
