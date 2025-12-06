@@ -18,7 +18,7 @@ As the lead developer and architect of phueantae.com ("Trusted Friend"), I focus
 
 <div style="border-left: 4px solid #3B1E54; padding-left: 20px; padding-top: 5px; padding-bottom: 5px; background-color: #F5F0F6; border-radius: 8px;">
     <h3 style="font-size: 22px; font-weight: 700; color: #3B1E54; margin: 0;">
-        Your "Trusted Friend" (phueantae.com)
+        Your "phueantae.com"
     </h3>
     <p style="font-size: 16px; color: #3B1E54; margin-top: 10px; margin-bottom: 5px;">
         No matter how complex your daily routines or major life choices are, **Phueantae** is your dedicated digital companion. We consolidate essential tools to help you <strong style="color: #9B7EBD;">think, calculate, and decide,</strong> ensuring every part of your life is simpler and more manageable.
