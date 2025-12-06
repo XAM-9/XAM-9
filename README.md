@@ -15,12 +15,11 @@
   My specialty is the **Full Stack development lifecycle** combined with deep expertise in **Data Analysis (Python)**. I build robust web applications that are smarter, faster, and driven by insights, ensuring superior performance from database to user interface (UX/UI).
 </p>
 
-## 🧠 My Core Expertise & Triumphs
+## 🧠 My Core Expertise & Consistency
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/XAM-9/XAM-9/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" style="width: 90%;">
-  
-  </p>
+</p>
 
 ---
 
@@ -35,14 +34,12 @@
 ## 📈 Technical Fusion (My Complete Toolkit)
 
 ### 1. Data Analysis & Python Proficiency
-*นี่คือทักษะที่นำข้อมูลเชิงลึกมาขับเคลื่อนการตัดสินใจทางธุรกิจ*
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Data Analysis Badge](https://img.shields.io/badge/Data_Analysis-000000?style=for-the-badge&logo=analytice&logoColor=white)
 
 ### 2. Frontend, UX/UI & Core Architecture
-*นี่คือทักษะที่สร้างประสบการณ์ผู้ใช้ที่เป็นมิตรและมีประสิทธิภาพ*
 ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -51,7 +48,6 @@
 ![Lucide Icons Badge](https://img.shields.io/badge/Lucide_Icons-4f46e5?style=for-the-badge&logo=lucide&logoColor=white)
 
 ### 3. Backend, DevOps & Scalability
-*นี่คือทักษะที่รับประกันความเสถียรและความปลอดภัยของระบบ*
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
