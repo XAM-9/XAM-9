@@ -52,12 +52,6 @@ into seamless, intelligent, and high-performance applications.
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=XAM-9&theme=redical&hide_border=true" width="100%" />
 
-<br><br>
-
-<!-- Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
 
 ---
 
