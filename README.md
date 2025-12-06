@@ -8,7 +8,7 @@ Building products that are **useful, intelligent, and beautifully engineered.**
 <br>
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FXAM-9">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXAM-9&label=Profile%20Views&color=5533FF" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXAM-9&label=Profile%20Views&color=5533FF" />
 </a>
 
 </div>
@@ -20,20 +20,20 @@ Building products that are **useful, intelligent, and beautifully engineered.**
 ## ✨ About Me
 
 <span style="font-size: 16px; font-weight: 600;">
-Full Stack Developer with a focus on clean architecture, modern UI/UX,  
-and scalable backend systems powered by Python and SQL.
+ผมคือผู้สร้างและนักพัฒนาคนเดียวเบื้องหลัง phueantae.com 
+(เพื่อนแท้) แพลตฟอร์มที่ตั้งใจออกแบบมาเพื่อช่วยจัดการเรื่องต่างๆ ในชีวิต
 </span>
 
 <br>
 
 <span style="font-size: 15px;">
-I build applications that are:
+ภารกิจของผมคือการทำให้ชีวิตคุณง่ายขึ้น ด้วยเครื่องมือที่:
 </span>
 
-- ⚡ <span style="font-weight: 600;">Fast</span>  
-- 🎯 <span style="font-weight: 600;">Precise</span>  
-- 🧠 <span style="font-weight: 600;">Data-driven</span>  
-- 🛠️ <span style="font-weight: 600;">Maintainable</span>  
+- ⚡ <span style="font-weight: 600;">ช่วยคำนวณและตัดสินใจ</span>  
+- 🎯 <span style="font-weight: 600;">รวดเร็วและแม่นยำ</span>  
+- 🧠 <span style="font-weight: 600;">เข้าใจง่ายและใช้งานได้จริง</span>  
+- 🛠️ <span style="font-weight: 600;">อยู่เคียงข้างคุณเสมอ</span>  
 
 </div>
 
@@ -59,7 +59,7 @@ I build applications that are:
 
 <div align="center">
 
-## 🛠️ Full Tech Stack  
+## 🛠️ Full Tech Stack  
 ### “Tools I use to turn ideas into high-performance applications.”
 
 <br>
