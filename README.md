@@ -26,18 +26,20 @@ As the lead developer and architect of phueantae.com 
 
 <br>
 
-<span style="font-size: 15px;">
-Our commitment is to empower users with resources that are:
-</span>
-
-- <span style="font-weight: 600; color: #3B1E54;">Clarity & Decisiveness:</span> Transforming complex issues into clear, actionable outcomes.  
-- <span style="font-weight: 600; color: #3B1E54;">Precision & Efficiency:</span> Delivering instant, accurate calculations for everyday financial management.  
-- <span style="font-weight: 600; color: #3B1E54;">Empowerment:</span> Translating intricate topics into accessible, practical knowledge for personal growth.  
-- <span style="font-weight: 600; color: #3B1E54;">Reliable Support:</span> Ensuring a stable, secure digital companion ready to assist you in every step.  
-
+<div style="border-left: 4px solid #3B1E54; padding-left: 20px; padding-top: 5px; padding-bottom: 5px; background-color: #F5F0F6; border-radius: 8px;">
+    <h3 style="font-size: 22px; font-weight: 700; color: #3B1E54; margin: 0;">
+        Your "Trusted Friend"
+    </h3>
+    <p style="font-size: 16px; color: #3B1E54; margin-top: 10px; margin-bottom: 5px;">
+        No matter how many complexities life brings, **Phueantae** is your dedicated companion. We gather all the essential tools to help you <strong style="color: #9B7EBD;">think, calculate, and decide,</strong> making every part of your life simpler than ever before.
+    </p>
+    <p style="font-size: 15px; margin-top: 15px; font-weight: 500;">
+        Explore our mission: <a href="https://www.phueantae.com" style="color: #3B1E54; text-decoration: underline; font-weight: 700;">https://www.phueantae.com</a>
+    </p>
 </div>
 
----
+
+</div>
 
 ---
 
