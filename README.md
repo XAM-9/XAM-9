@@ -17,9 +17,9 @@
 
 ## 🧠 My Core Expertise & Consistency
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/XAM-9/XAM-9/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" style="width: 90%;">
-</p>
+</div>
 
 ---
 
@@ -33,8 +33,7 @@
 
 ## 📈 Technical Fusion (My Complete Toolkit)
 
-<p align="center">
-  <h3>Frontend, Data & Backend Architecture</h3>
+<div align="center">
   
   ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
@@ -55,27 +54,27 @@
   ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
   ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
   ![NextAuth Badge](https://img.shields.io/badge/NextAuth-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white)
-</p>
+</div>
 
 ---
 
 ## 📊 Activity & Discipline
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true&title_color=FF6767&cache_seconds=3600" alt="Nakarin's GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.demolab.com/?user=XAM-9&theme=radical&hide_border=true&ring=FF6767&fire=FF6767&title_color=FF6767&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
 ## 📞 Let's Connect & Collaborate!
 
-<p align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/nakarin-wongsang/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/nakarin._max._/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
+</div>
