@@ -54,10 +54,6 @@ into seamless, intelligent, and high-performance applications.
 
 <br><br>
 
-<!-- Dev Quote -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
-</div>
 
 ---
 
