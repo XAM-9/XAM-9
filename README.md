@@ -1,17 +1,15 @@
 <div align="center">
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514148/58377/cursorwink.gif" width="32"/> Hi, I'm **Nakarin Wongsang**
-### 💻 Full Stack Developer • Data Analyst
+### 💻 Full Stack Developer
 
-<div style="margin-top: 10px;">
-    <span style="font-size: 18px; font-weight: 600; color: #3B1E54;">
-        Building web tools that are
-    </span>
-    <span style="font-size: 18px; font-weight: 700; color: #9B7EBD;">
-        USEFUL, INTELLIGENT, & BEAUTIFULLY ENGINEERED.
-    </span>
+<br>
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FXAM-9">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXAM-9&label=Profile%20Views&color=5533FF" />
+</a>
+
 </div>
-
 <br>
 
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FXAM-9">
