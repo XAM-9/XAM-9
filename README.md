@@ -33,33 +33,38 @@
 
 ## 📈 Technical Fusion (My Complete Toolkit)
 
-### 1. Data Analysis & Python Proficiency
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Data Analysis Badge](https://img.shields.io/badge/Data_Analysis-000000?style=for-the-badge&logo=analytice&logoColor=white)
+<p align="center">
+  <h3>Frontend, Data & Backend Architecture</h3>
+  
+  ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  
+  ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![MUI Badge](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+  ![Lucide Icons Badge](https://img.shields.io/badge/Lucide_Icons-4f46e5?style=for-the-badge&logo=lucide&logoColor=white)
 
-### 2. Frontend, UX/UI & Core Architecture
-![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MUI Badge](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-![Lucide Icons Badge](https://img.shields.io/badge/Lucide_Icons-4f46e5?style=for-the-badge&logo=lucide&logoColor=white)
+  <br>
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+  ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+  ![Data Analysis Badge](https://img.shields.io/badge/Data_Analysis-000000?style=for-the-badge&logo=analytice&logoColor=white)
 
-### 3. Backend, DevOps & Scalability
-![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![NextAuth Badge](https://img.shields.io/badge/NextAuth-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  <br>
+  ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+  ![NextAuth Badge](https://img.shields.io/badge/NextAuth-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white)
+</p>
 
 ---
 
-## 📈 Activity & Discipline
+## 📊 Activity & Discipline
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true&title_color=FF6767" alt="Nakarin's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=XAM-9&theme=radical&hide_border=true&ring=FF6767&fire=FF6767&title_color=FF6767" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true&title_color=FF6767&cache_seconds=3600" alt="Nakarin's GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.demolab.com/?user=XAM-9&theme=radical&hide_border=true&ring=FF6767&fire=FF6767&title_color=FF6767&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
