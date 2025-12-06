@@ -27,28 +27,35 @@ into seamless, intelligent, and high-performance applications.
 
 ---
 
-## 🚀 Featured Project — **Phueantae.com**
-
-> A “True Friend” assistant designed to make everyday decisions easier.
-
-✓ Tax Calculator  
-✓ Split Bill Calculator  
-✓ BMR / TDEE Fitness Calculator  
-✓ Decision Scorecard  
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/XAM-9/XAM-9/output/github-contribution-grid-snake-dark.svg" width="90%" />
-</div>
-
----
-
 ## 📊 GitHub Activity
 
 <div align="center">
 
+<!-- GitHub Stats -->
 <img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true" />
 
+<!-- GitHub Streak -->
 <img height="165" src="https://streak-stats.demolab.com?user=XAM-9&theme=radical&hide_border=true" />
+
+<br><br>
+
+<!-- Top Languages -->
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=XAM-9&layout=compact&theme=radical&hide_border=true" />
+
+<br><br>
+
+<!-- Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=XAM-9&theme=radical&no-frame=true&no-bg=true&margin-w=10" width="100%" />
+
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=XAM-9&theme=redical&hide_border=true" width="100%" />
+
+<br><br>
+
+<!-- Dev Quote -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
 </div>
 
