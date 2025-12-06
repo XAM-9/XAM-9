@@ -1,12 +1,12 @@
 <div align="center">
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1643514148/58377/cursorwink.gif" width="32"/> Hi, I'm **Nakarin Wongsang**
-### 💻 Full Stack Developer | Mobile Developer 
+### Full Stack Developer | Mobile Developer 
 <div align="left">
 
 <div align="left">
 
-## ✨ About Me
+## About Me
 
 <span style="font-size: 16px; font-weight: 600;">
 As the lead developer and architect of phueantae.com ("Trusted Friend"), I focus on engineering highly effective digital tools that simplify **daily life management and critical decision-making.**
