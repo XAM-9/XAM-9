@@ -1,80 +1,87 @@
 <div align="center">
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1594247265/9692/typing.gif?1594247265" width="40"/> Hi! I'm Nakarin Wongsang – Full Stack Architect & Data Scientist</h1>
+
+# <img src="https://emojis.slackmojis.com/emojis/images/1643514148/58377/cursorwink.gif" width="32"/> Hi, I'm **Nakarin Wongsang**
+### 💻 Full Stack Developer • Data Analyst (Python)
+
+Building products that are **useful, intelligent, and beautifully engineered.**
+
+<br>
+
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FXAM-9">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXAM-9&label=Profile%20Views&color=5533FF" />
+</a>
+
 </div>
 
 ---
+
+## ✨ About Me
+I'm a **Full Stack Developer** who blends  
+**Frontend × Backend × Data Analysis**  
+into seamless, intelligent, and high-performance applications.
+
+- 🧠 Strong in architecture & clean code  
+- ⚡ Focus on fast, modern UX  
+- 📊 Data-driven development  
+- 🛠️ Build tools, apps, and systems that **actually help people**
+
+---
+
+## 🚀 Featured Project — **Phueantae.com**
+
+> A “True Friend” assistant designed to make everyday decisions easier.
+
+✓ Tax Calculator  
+✓ Split Bill Calculator  
+✓ BMR / TDEE Fitness Calculator  
+✓ Decision Scorecard  
 
 <div align="center">
-  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FXAM-9">
-    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXAM-9&label=Profile%20Views&color=5533FF" alt="Visitor Count" />
-  </a>
+  <img src="https://raw.githubusercontent.com/XAM-9/XAM-9/output/github-contribution-grid-snake-dark.svg" width="90%" />
 </div>
 
-<p align="center">
-  ✨ Welcome to the Profile of Phueantae's Architect! 
-  My specialty is the **Full Stack development lifecycle** combined with deep expertise in **Data Analysis (Python)**. I build robust web applications that are smarter, faster, and driven by insights, ensuring superior performance from database to user interface (UX/UI).
-</p>
+---
 
-## 🧠 My Core Expertise & Consistency
+## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/XAM-9/XAM-9/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" style="width: 90%;">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true&title_color=FF6767"/>
+
+<img height="165" src="https://github-readme-streak-stats.demolab.com/?user=XAM-9&theme=radical&hide_border=true&ring=FF6767&fire=FF6767&date_format=j%20M%5B%20Y%5D"/>
+
 </div>
 
 ---
 
-## 🚀 Featured Project: Phueantae.com
+## 🛠️ Tech Stack
 
-> 💡 **The Mission:** Phueantae.com is a "True Friend" assistant, gathering essential calculation and decision-making tools to simplify life for everyone.
+### 🎨 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E01D?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-- **Tools in the Suite:** Tax Calculator, Split Bill Calculator, BMR/TDEE Fitness Calculator, and a Decision Scorecard.
+### 🧠 Data / Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
 
----
-
-## 📈 Technical Fusion (My Complete Toolkit)
-
-<div align="center">
-  
-  ![Next.js Badge](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-  ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  ![MUI Badge](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
-  ![Lucide Icons Badge](https://img.shields.io/badge/Lucide_Icons-4f46e5?style=for-the-badge&logo=lucide&logoColor=white)
-
-  <br>
-  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  ![Pandas Badge](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-  ![Jupyter Badge](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  ![Data Analysis Badge](https://img.shields.io/badge/Data_Analysis-000000?style=for-the-badge&logo=analytice&logoColor=white)
-
-  <br>
-  ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-  ![NextAuth Badge](https://img.shields.io/badge/NextAuth-1e293b?style=for-the-badge&logo=nextdotjs&logoColor=white)
-</div>
+### 🔧 Backend / Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![NextAuth](https://img.shields.io/badge/NextAuth-1e293b?style=for-the-badge&logo=nextdotjs)
 
 ---
 
-## 📊 Activity & Discipline
+## 🤝 Connect With Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true&title_color=FF6767&cache_seconds=3600" alt="Nakarin's GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.demolab.com/?user=XAM-9&theme=radical&hide_border=true&ring=FF6767&fire=FF6767&title_color=FF6767&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
+<a href="https://www.linkedin.com/in/nakarin-wongsang/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/nakarin._max._/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
----
-
-## 📞 Let's Connect & Collaborate!
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/nakarin-wongsang/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/nakarin._max._/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
