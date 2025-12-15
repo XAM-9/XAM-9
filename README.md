@@ -48,7 +48,7 @@ As the lead developer and architect of phueantae.com ("Trusted Friend"), I focus
 <div align="center">
 
 ## 🛠️ Full Tech Stack  
-### “How I build things.”
+### “Here are all my development tools.”
 
 <br>
 
