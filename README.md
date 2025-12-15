@@ -39,17 +39,14 @@ As the lead developer and architect of phueantae.com ("Trusted Friend"), I focus
         <img height="165" src="https://github-readme-stats-olive-nu.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true" />
       </td>
       <td align="center">
-        <img height="165" src="https://streak-stats.demolab.com?user=XAM-9&theme=radical&hide_border=true" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img width="100%" src="https://github-readme-stats-olive-nu.vercel.app/api/top-langs/?username=XAM-9&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+        <img height="165" src="https://github-readme-stats-olive-nu.vercel.app/api/top-langs/?username=XAM-9&layout=compact&theme=radical&hide_border=true&langs_count=6" />
       </td>
     </tr>
   </table>
+  
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=XAM-9&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
-
 <div align="center">
 
 ## 🛠️ Full Tech Stack  
