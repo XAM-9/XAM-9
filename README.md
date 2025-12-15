@@ -49,44 +49,48 @@
 
 <table border="0" width="100%">
   <tr>
-    <td align="center" width="33%" valign="top">
-      <h3>🎨 Frontend</h3>
-      <br>
-      <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" alt="Next.js" /><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" /><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br>
-      <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS" /><br>
-      <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" /><br>
-      <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer" alt="Framer Motion" />
+    <td align="center" width="33%" valign="top" style="padding: 10px;">
+      <h3 style="margin-bottom: 10px;">🎨 Frontend</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" alt="Next.js" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" alt="TailwindCSS" />
+        <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="MUI" />
+        <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer" alt="Framer Motion" />
+      </div>
     </td>
-    <td align="center" width="33%" valign="top">
-      <h3>🧠 Data & Backend Logic</h3>
-      <br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" /><br>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas" /><br>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" alt="NumPy" /><br>
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter" alt="Jupyter" /><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js" /><br>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" alt="Express" /><br>
-      <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" /><br>
-      <img src="https://img.shields.io/badge/NextAuth-1e293b?style=for-the-badge&logo=nextdotjs" alt="NextAuth" />
+
+    <td align="center" width="33%" valign="top" style="padding: 10px;">
+      <h3 style="margin-bottom: 10px;">🧠 Data & Backend Logic</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter" alt="Jupyter" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" alt="Express" />
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+        <img src="https://img.shields.io/badge/NextAuth-1e293b?style=for-the-badge&logo=nextdotjs" alt="NextAuth" />
+      </div>
     </td>
-    <td align="center" width="33%" valign="top">
-      <h3>☁️ Cloud & DevOps</h3>
-      <br>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="PostgreSQL" /><br>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql" alt="MySQL" /><br>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" alt="MongoDB" /><br>
-      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" /><br>
-      <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway" alt="Railway" /><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" /><br>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" alt="Vercel" /><br>
-      <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git" alt="Git" />
+
+    <td align="center" width="33%" valign="top" style="padding: 10px;">
+      <h3 style="margin-bottom: 10px;">☁️ Cloud & DevOps</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql" alt="MySQL" />
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+        <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway" alt="Railway" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" alt="Vercel" />
+        <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git" alt="Git" />
+      </div>
     </td>
   </tr>
 </table>
-
 <br>
 <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FXAM-9">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXAM-9&label=Profile%20Views&color=5533FF" alt="Visitor Badge" />
