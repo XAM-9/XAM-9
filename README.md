@@ -43,10 +43,8 @@ As the lead developer and architect of phueantae.com ("Trusted Friend"), I focus
       </td>
     </tr>
   </table>
-  
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=XAM-9&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
+
 <div align="center">
 
 ## 🛠️ Full Tech Stack  
