@@ -31,19 +31,24 @@ As the lead developer and architect of phueantae.com ("Trusted Friend"), I focus
 ---
 
 <div align="center">
-
-## 📊 GitHub Activity
-
-<img height="165" src="https://github-readme-stats-olive-nu.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true" />
-
-<img height="165" src="https://streak-stats.demolab.com?user=XAM-9&theme=radical&hide_border=true" />
-
-<br><br>
-
-<img height="165" src="https://github-readme-stats-olive-nu.vercel.app/api/top-langs/?username=XAM-9&layout=compact&theme=radical&hide_border=true" />
-
+  <h2>📊 GitHub Activity</h2>
+  <br>
+  <table>
+    <tr>
+      <td align="center">
+        <img height="165" src="https://github-readme-stats-olive-nu.vercel.app/api?username=XAM-9&show_icons=true&theme=radical&hide_border=true" />
+      </td>
+      <td align="center">
+        <img height="165" src="https://streak-stats.demolab.com?user=XAM-9&theme=radical&hide_border=true" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img width="100%" src="https://github-readme-stats-olive-nu.vercel.app/api/top-langs/?username=XAM-9&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+      </td>
+    </tr>
+  </table>
 </div>
-
 
 <div align="center">
 
