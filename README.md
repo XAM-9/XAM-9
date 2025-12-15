@@ -9,7 +9,7 @@
 ## About Me
 
 <span style="font-size: 16px; font-weight: 600;">
-As the lead developer and architect of phueantae.com ("Trusted Friend"), I focus on engineering highly effective digital tools that simplify **daily life management and critical decision-making.**
+As the developer and architect of phueantae.com ("Trusted Friend"), I focus on engineering highly effective digital tools that simplify **daily life management and critical decision-making.**
 </span>
 
 <br>
