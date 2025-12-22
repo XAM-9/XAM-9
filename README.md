@@ -19,7 +19,7 @@
               No matter how complex your daily routines or major life choices are, <strong>Phueantae</strong> is your dedicated digital companion. We consolidate essential tools to help you <strong style="color: #9B7EBD;">think, calculate, and decide,</strong> ensuring every part of your life is simpler and more manageable.
           </p>
           <p style="font-size: 15px; margin-top: 15px; font-weight: 500;">
-              Explore our mission: <a href="https://www.phueantae.com" style="color: #3B1E54; text-decoration: underline; font-weight: 700;">https://www.phueantae.com</a>
+              Project <a href="https://www.phueantae.com" style="color: #3B1E54; text-decoration: underline; font-weight: 700;">https://www.phueantae.com</a>
           </p>
       </div>
     </td>
